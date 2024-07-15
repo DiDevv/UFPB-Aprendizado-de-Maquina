@@ -1,4 +1,5 @@
 # Aprendizado de Máquina - Estatística (UFPB)
 
-Código da Disciplina: GDEST0106
-Professor: Pedro Rafael Diniz Marinho
+|Código da Disciplina|Professor|
+|--------------------|----------|
+|GDEST0106|Pedro Rafael Diniz Marinho|
